@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Rick's Rolodex"
 include(":app")
+include(":shared:network")
